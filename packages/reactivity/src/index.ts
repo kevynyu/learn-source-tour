@@ -1,4 +1,3 @@
-import { isObject } from '@kevynyu/utils';
+import { isObject } from '@kevynyu/utils'
 
-let ret = isObject({});
-console.log(ret);
+export const ret = isObject({})
